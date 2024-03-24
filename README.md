@@ -1,2 +1,2 @@
-# AncelsPowerPlan
-Host for Ancels Powerplan
+# Host for Ancels Batch files
+Host for Ancel
